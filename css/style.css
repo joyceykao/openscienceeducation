@@ -1,0 +1,37 @@
+
+@import url('components/buttons.css');
+@import url('components/banner.css');
+/* Utilities */
+body {
+  margin: 8px;
+  font-family: ;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+h2, h3, h4{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  color: rgb(33, 33, 33);
+}
+
+h3 {
+  color: #3367d6;
+}
+p {
+  font-size: 14px;
+}
+
+a {
+  color: rgb(33,33,33);
+}
+
+a:hover {
+  color: #257bbf;
+}
+
+.container {
+  padding: 16px;
+  margin: 16px;
+  text-align: center;
+}

@@ -1,0 +1,21 @@
+.banner {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.banner h1 {
+  color: white;
+  text-shadow: 2px 2px rgb(100,100,100);
+  font-size: 60px;
+  padding: 8px;
+}
+
+.banner p {
+  color: white;
+  font-size: 32px;
+  text-shadow: 2px 2px rgb(100,100,100);
+  padding: 8px;
+}
